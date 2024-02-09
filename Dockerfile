@@ -1,4 +1,4 @@
-# Use an official Maven image as a build stage
+# Use an official Maven image as a build 
 FROM maven:3.8.4-openjdk-17 AS build
 WORKDIR /app
 
